@@ -1,0 +1,5 @@
+#surefire
+#Fri Jan 29 16:05:28 UTC 2021
+user.dir=/home/ec2-user/tomcat/game-of-life
+localRepository=/home/ec2-user/.m2/repository
+basedir=/home/ec2-user/tomcat/game-of-life

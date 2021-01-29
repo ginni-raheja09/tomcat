@@ -1,0 +1,5 @@
+/home/ec2-user/tomcat/game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Universe.java
+/home/ec2-user/tomcat/game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Cell.java
+/home/ec2-user/tomcat/game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridWriter.java
+/home/ec2-user/tomcat/game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridReader.java
+/home/ec2-user/tomcat/game-of-life/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Grid.java
